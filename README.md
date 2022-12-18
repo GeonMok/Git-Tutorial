@@ -62,7 +62,7 @@ git add README.md
 다음은 stage시킨 수정사항을 local repo에 실제로 commit할 차례입니다.
 다음을 실행해 stage된 수정사항을 commit해 보세요:
 ```
-git clommit -m "[commit message]"
+git commit -m "[commit message]"
 ```
 이제 당신의 local repo에는 수정사항이 새로운 commit으로 반영되었습니다.
 이를 확인해 보고 싶다면 `git log`를 실행하면 됩니다.
